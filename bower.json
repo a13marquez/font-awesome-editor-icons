@@ -1,0 +1,26 @@
+{
+  "name": "font-awesome-editor-icons",
+  "homepage": "https://github.com/jlopezcur/font-awesome-editor-icons",
+  "authors": [
+    "Javier López Úbeda <jlopezcur@gmail.com>"
+  ],
+  "description": "Font Awesome icons for editor tasks",
+  "main": [
+    "./dist/css/fontawesome-editor.css",
+    "./dist/fonts/fontawesome-editor-webfont.eot",
+    "./dist/fonts/fontawesome-editor-webfont.svg",
+    "./dist/fonts/fontawesome-editor-webfont.ttf",
+    "./dist/fonts/fontawesome-editor-webfont.woff"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
